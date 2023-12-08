@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174970879477",
+    "project_id": "geet-ecommerce",
+    "storage_bucket": "geet-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174970879477:android:5886dc81c04331bcaf34bc",
+        "android_client_info": {
+          "package_name": "com.example.geeta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj0E0JRF6YGoys9RmsyhSPVPGGQLBVT3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
